@@ -1,0 +1,31 @@
+@media all and (min-width:900px){
+#scaler_1 {
+	font-size: 4vw;
+	}
+}
+
+@media all and (max-width: 899px) and (min-width: 50px) {
+#scaler_1{
+    font-size: 50px;
+  }
+}
+
+@media all and (min-width:900px){
+.scaler_2 {
+	font-size: 2vw;
+	}
+}
+
+@media all and (max-width: 899px) and (min-width: 50px) {
+.scaler_2{
+    font-size: 50px;
+  }
+}
+
+img {
+	border-radius: 50%;
+}
+
+.custom_oswalt {
+	font-family: 'Oswald', sans-serif;
+}
